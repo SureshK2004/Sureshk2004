@@ -162,25 +162,67 @@ Besant Technologies
 
 <br>
 
-## GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SureshK2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suresh's GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshK2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+<a href="https://github.com/SureshK2004">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SureshK2004&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img
+  src="https://streak-stats.demolab.com/?user=SureshK2004&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=94A3B8"
+  alt="Suresh K GitHub Streak"
+  width="500"
+/>
+
+</a>
+
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=SureshK2004&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
 
 <br>
 
-## Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshksureshk04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-pythondev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SureshK2004)
+<a href="mailto:sureshksureshk04@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/suresh-pythondev">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/SureshK2004">
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://suresh-dev.netlify.app/">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
 
 </div>
