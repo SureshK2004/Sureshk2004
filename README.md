@@ -175,12 +175,44 @@ Besant Technologies
 
 <br>
 
-## Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshksureshk04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-pythondev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SureshK2004)
+<a href="mailto:sureshksureshk04@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  >
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/suresh-pythondev">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/SureshK2004">
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  >
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://suresh-dev.netlify.app/">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  >
+</a>
 
 </div>
+
+
