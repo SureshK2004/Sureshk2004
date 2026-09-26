@@ -162,14 +162,21 @@ Besant Technologies
 
 <br>
 
-## GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SureshK2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suresh's GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshK2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+<img
+  src="https://streak-stats.demolab.com/?user=SureshK2004&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4"
+  alt="Suresh K GitHub Streak"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SureshK2004&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=SureshK2004&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+  alt="Profile views"
+/>
 
 </div>
 
