@@ -224,6 +224,7 @@ alt="Profile Views"
 
 <div align="center">
 
-### `BUILD • DEBUG • SHIP • REPEAT`
+### `BUILD • DEBUG • SHIP • REPEAT
+உருவாக்கு • பிழையைத் தீர்த்து • வெளியிடு • தொடர்ந்து மேம்படுத்து`
 
 </div>
